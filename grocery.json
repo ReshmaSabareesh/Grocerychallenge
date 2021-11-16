@@ -1,0 +1,84 @@
+{
+    "grocery":[
+        {
+          "Serialno":1,
+         "Name": "Rice",
+         "Quantity":25,
+         "Unit":"kg",
+         "Department": "Rice & Rice Products",
+         "Notes":"Matta"
+        },
+        {
+          "Serialno":2,
+         "Name": "Rice",
+         "Quantity":5,
+         "Unit":"kg",
+         "Department":"Rice & Rice Products",
+         "Notes": "Basmati"
+        },
+        {
+          "Serialno":3,
+         "Item": "Cashew",
+         "Quantity": 200,
+         "Unit":"gm",
+         "Department": "Dry fruits and Nuts",
+         "Note": "Roasted"
+        },
+        {
+          "Serialno":4,
+         "Item": "Peanuts",
+         "Quantity": 500,
+         "Unit": "gm",
+         "Department":"Dry fruits and Nuts",
+         "Notes":"Raw"
+        },
+        {
+          "Serialno":5,
+         "Item":"Ghee",
+         "Quantity":50,
+         "Unit":"gm",
+         "Department":"Milk Products",
+         "Notes":"Milma"
+        },
+        {
+          "Serialno":6,
+         "Item":"Paneer",
+         "Quantity":500,
+         "Unit":"gm",
+         "Department":"Milk Products",
+         "Notes":"Milma"
+        },
+        {
+          "Serialno":7,
+         "Item":"Onion",
+         "Quantity":1,
+         "Unit":"kg",
+         "Department":"Vegetables",
+         "Notes":"small onion"
+        },
+        {
+          "Serialno":8,
+         "Item":"cucumber",
+         "Quantity":1,
+         "Unit":"kg",
+         "Department":"Vegetables",
+         "Notes":"Fresh"
+        },
+        {
+          "Serialno":9,
+         "Item":"Dishwash",
+         "Quantity":1,
+         "Unit":"Bottle",
+         "Department":"Detergents",
+         "Notes":"Liquid"
+        },
+        {
+          "Serialno":10,
+         "Item":"Surfexcel",
+         "Quantity":1,
+         "Unit":"Bottle",
+         "Department":"Detergents",
+         "Notes":"liquid"
+        }
+        ]
+  }

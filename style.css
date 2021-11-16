@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;  
+  }
+  body{
+      background-image: url("images/grocery-store.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      
+  }
+  #list{
+    position: absolute;
+    border-radius: 15px; 
+    width:65%;
+    font-family: sans-serif;
+    border-collapse: collapse;
+    text-align: center;
+    border:2px solid steelblue;  
+  }
+  
